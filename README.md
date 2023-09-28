@@ -1,2 +1,2 @@
-# tcnotuchtuch
+# tecnotuchtuch
 Estudo de JavaScript.
